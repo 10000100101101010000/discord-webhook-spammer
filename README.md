@@ -13,8 +13,8 @@
 
 ---
 
-![image](https://prnt.sc/xiTSJd1deyix)
+https://prnt.sc/xiTSJd1deyix
 
 ---
 
-![image](https://prnt.sc/gPBJViRPp0bP)
+https://prnt.sc/gPBJViRPp0bP

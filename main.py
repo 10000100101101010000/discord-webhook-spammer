@@ -1,4 +1,4 @@
-# Made by 10000100101101010000 on Github | Licensed (MIT)
+# Made by equate on Github | Licensed (MIT)
 # This was made for educational purposes only
 # Find the latest version at https://github.com/10000100101101010000/discord-webhook-spammer
 
@@ -37,7 +37,7 @@ def main():
     # pfp is good dont change it pls
     pfp = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyrhJBQxS4K58zdqWROk4F4F8cTZIFWWIUw&s'
     name = '#RATELIMITS' # name of webhook you want
-    message = "# ||@everyone|| \n# killed ratelimits ; discord.gg/coded" # message of webhook you want
+    message = "# ||@everyone|| \n# killed ratelimits ; discord.gg/" # message of webhook you want
 
 
     for i in range(30): # anything over 30 will kill the bot

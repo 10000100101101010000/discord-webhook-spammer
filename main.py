@@ -1,6 +1,6 @@
 # Made by equate on Github | Licensed (MIT)
 # This was made for educational purposes only
-# Find the latest version at https://github.com/10000100101101010000/discord-webhook-spammer
+# Find the latest version at https://github.com/eqate/discord-webhook-spammer
 
 
 import requests
